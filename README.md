@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gülbahar Dönmez</h1>
 <h3 align="center">A management information systems student from Turkey</h3>
 
-![Uploading code-works-code-not-working.gif…]()
 
 
 <h3 align="left">Connect with me:</h3>
