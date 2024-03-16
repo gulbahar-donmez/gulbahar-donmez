@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gülbahar Dönmez</h1>
 <h3 align="center">A management information systems student from Turkey</h3>
 
-<div class="tenor-gif-embed" data-postid="24991578" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-works-code-not-working-error-scaler-create-impact-gif-24991578">Code Works Code Not Working GIF</a>from <a href="https://tenor.com/search/code+works-gifs">Code Works GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Uploading code-works-code-not-working.gif…]()
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
