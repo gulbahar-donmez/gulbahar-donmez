@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gülbahar Dönmez</h1>
 <h3 align="center">A management information systems student from Turkey</h3>
 
+<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc"></a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gulbahardonmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulbahardonmez" height="30" width="40" /></a>
